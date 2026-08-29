@@ -873,7 +873,7 @@
       <desc lang="EN">Helps you create custom smart playlists (dynamic playlists) for the Dynamic Playlists plugin.</desc>
       <title lang="EN">Dynamic Playlist Creator</title>
     </plugin>
-    <plugin name="MigrationAssistant" category="tools" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-migrationassistant/main/screenshots/miga_icon.png" installations="6" link="https://github.com/AF-1" maxTarget="*" minTarget="9.0" sha="f3114ea2336647920f75ec82b9a1917a6049d29e" url="https://github.com/AF-1/lms-migrationassistant/releases/download/1.0.1/lms-migrationassistant-1.0.1.zip" version="1.0.1">
+    <plugin name="MigrationAssistant" category="tools" creator="AF" icon="https://raw.githubusercontent.com/AF-1/lms-migrationassistant/main/screenshots/miga_icon.png" installations="6" link="https://github.com/AF-1" maxTarget="*" minTarget="9.0" sha="1856d416e7d8c4f562cc1507950bb0914314039c" url="https://github.com/AF-1/lms-migrationassistant/releases/download/1.0.2/lms-migrationassistant-1.0.2.zip" version="1.0.2">
       <desc lang="EN">Helps you back up and restore server, plugin and player preferences, playlists and per-track statistics when migrating to a new installation.</desc>
       <title lang="EN">Migration Assistant</title>
     </plugin>
