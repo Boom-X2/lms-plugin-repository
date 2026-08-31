@@ -911,7 +911,7 @@
       <desc lang="EN">Bliss Mixer for DSTM</desc>
       <title lang="EN">Bliss Mixer</title>
     </plugin>
-    <plugin name="MaterialSkin" category="skin" creator="Craig Drummond" installations="10519" link="" maxTarget="*" minTarget="7.9.0" sha="3b7ed61523ef9faf563d5082e16eeae5090ba3f1" url="https://github.com/CDrummond/lms-material/releases/download/6.4.7/lms-material-6.4.7.zip" version="6.4.7">
+    <plugin name="MaterialSkin" category="skin" creator="Craig Drummond" installations="10519" link="" maxTarget="*" minTarget="7.9.0" sha="4fcdd5e64d9549d136d131fb7ba2af0a036d5bbb" url="https://github.com/CDrummond/lms-material/releases/download/6.4.9/lms-material-6.4.9.zip" version="6.4.9">
       <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
       <title lang="EN">Material Skin</title>
     </plugin>
