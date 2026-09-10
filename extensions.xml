@@ -825,6 +825,11 @@
       <desc lang="EN">QuickAccess provides similar functionality as Favorites plus the possibility to pass a playlist from player to player. Just press and hold a number button and the assigned playlist starts playing. You may select playlists from each player or your server's web interface. You will also need to place the custom.map file (http://jasonholtzapple.github.io/slimdevices/plugins/quickaccess/7.3/custom.map) in your Squeezecenter/IR directory by hand.</desc>
       <title lang="EN">QuickAccess</title>
     </plugin>
+    <plugin name="SuperDateTime" catagory="information" category="information" creator="G Brown, D Grossman" icon="https://downloads.sourceforge.net/project/sdt-weather-com/30.png" installations="557" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="*" minTarget="7.4" sha="9d956305a392d0e3a00b1554e8244530a27db7db" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-12-15.zip" version="5.12.15">
+      <changes lang="EN">Fixed NFL scores for 2026 season</changes>
+      <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
+      <title lang="EN">SuperDateTime</title>
+    </plugin>
     <plugin name="Mixlr" category="misc" creator="Peter Oliver" email="lms-mixlr@mavit.org.uk" installations="15" link="https://gitlab.com/mavit/lms-mixlr" maxTarget="*" minTarget="8.0" sha="0020285bb5b0ca950075e2f010507f12dc64d00d" url="https://mavit.gitlab.io/lms-mixlr/lms-mixlr-0.0.7.zip" version="0.0.7">
       <desc lang="EN">Play Mixlr broadcasts (by adding the URL to the queue).</desc>
       <title lang="EN">Mixlr</title>
