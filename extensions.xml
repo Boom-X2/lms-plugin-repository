@@ -977,7 +977,7 @@
       <desc lang="EN">Automate transcoding and resampling</desc>
       <title lang="EN">C-3PO Transcoding Helper</title>
     </plugin>
-    <plugin name="TIDAL" category="musicservices" creator="Michael Herger, philippe_44" icon="https://raw.githubusercontent.com/michaelherger/lms-plugin-tidal/main/HTML/EN/plugins/TIDAL/html/tidal_MTL_svg_tidal.png" installations="2264" link="https://github.com/michaelherger/lms-plugin-tidal" maxTarget="*" minTarget="8.3" sha="c97617210093d4743db20c3de1438592f3f53980" url="https://github.com/michaelherger/lms-plugin-tidal/releases/download/1.8.1/TIDAL.zip" version="1.8.1">
+    <plugin name="TIDAL" category="musicservices" creator="Michael Herger, philippe_44" icon="https://raw.githubusercontent.com/michaelherger/lms-plugin-tidal/main/HTML/EN/plugins/TIDAL/html/tidal_MTL_svg_tidal.png" installations="2264" link="https://github.com/michaelherger/lms-plugin-tidal" maxTarget="*" minTarget="8.3" sha="a46be7c55be8715101955c5a776e2ba89863d907" url="https://github.com/michaelherger/lms-plugin-tidal/releases/download/1.8.2/TIDAL.zip" version="1.8.2">
       <desc lang="EN">TIDAL for local LMS use</desc>
       <title lang="EN">TIDAL local</title>
     </plugin>
