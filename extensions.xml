@@ -782,8 +782,8 @@
       <desc lang="EN">BMPFonts provides additional bitmap fonts for squeezeboxes with a VCD or OLED display (Transporter, SB2/3, Boom, squeezelite-esp32). The plugin consists of the fonts DINo, Neep, Spleen and Terminus. After installation of the plugin, the new fonts can be selected via the server settings for the specific device, in the display section.</desc>
       <title lang="EN">BMPFonts Plugin</title>
     </plugin>
-    <plugin name="ARDAudiothek" category="radio" creator="Max Zimmermann" email="mz.max.zimmermann@gmail.com" installations="1018" link="https://github.com/mzedd/LMS-ARD-Audiothek-Plugin/" maxTarget="*" sha="7a1190b80d1aaf9eb908b1a8cccac59bd2400664" url="https://github.com/mzedd/LMS-ARD-Audiothek-Plugin/releases/download/latest/ARDAudiothek-1.3.2.zip" version="1.3.2">
-      <changes lang="EN">v1.3.2: Bugfixes and increased image resolution.</changes>
+    <plugin name="ARDAudiothek" category="radio" creator="Max Zimmermann" email="mz.max.zimmermann@gmail.com" installations="1018" link="https://github.com/mzedd/LMS-ARD-Audiothek-Plugin/" maxTarget="*" sha="ba4aecd2c550698ea45a6821e8108d9f70818f01" url="https://github.com/mzedd/LMS-ARD-Audiothek-Plugin/releases/download/latest/ARDAudiothek-1.4.0.zip" version="1.4.0">
+      <changes lang="EN">v1.4.0: Fixes to get the plugin working with the ARD Sounds API.</changes>
       <desc lang="EN">Browse and listen to content of the ARD Audiothek.</desc>
       <title lang="EN">ARD Audiothek</title>
     </plugin>
@@ -1018,9 +1018,9 @@
       <desc lang="EN">SqueezeESP32 additional player id (100/101)</desc>
       <title lang="EN">SqueezeESP32</title>
     </plugin>
-    <plugin name="SpotOn" category="musicservices" creator="Marek Stiefenhofer" email="sti@posteo.de" installations="384" link="" maxTarget="*" minTarget="8.0" sha="a1f73ceeb9310cb5fc3cfc72fbc7ed51dec9a10c" target="unix|mac|windows" url="https://github.com/stiefenm/spoton/releases/download/v3.5.8/SpotOn-v3.5.8.zip" version="3.5.8">
-      <desc lang="EN">Spotify plugin for Lyrion Music Server</desc>
-      <desc lang="DE">Spotify-Plugin fuer Lyrion Music Server</desc>
+    <plugin name="SpotOn" category="musicservices" creator="Marek Stiefenhofer" email="sti@posteo.de" installations="384" link="https://github.com/stiefenm/spoton" maxTarget="*" minTarget="8.0" sha="fa02536e5d26495123e9e263f332989a19356ec7" target="unix|mac|windows" url="https://github.com/stiefenm/spoton/releases/download/v4.0.0/SpotOn-v4.0.0.zip" version="4.0.0">
+      <desc lang="EN">Spotify plugin for Lyrion Music Server. 4.0: no Spotify Developer App any more - after the update, pair your account once in SpotOn Settings (see UPGRADING.md on GitHub).</desc>
+      <desc lang="DE">Spotify-Plugin fuer Lyrion Music Server. 4.0: keine Spotify Developer App mehr - nach dem Update das Konto einmal in den SpotOn-Einstellungen koppeln (siehe UPGRADING.md auf GitHub).</desc>
       <title lang="EN">SpotOn</title>
       <title lang="DE">SpotOn</title>
     </plugin>
